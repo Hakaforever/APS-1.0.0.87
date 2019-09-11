@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="APS.Atex" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAAAAAAgAAAAQQgQgAQAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Atex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APS.CommentWindow" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACAAAAEAAACAAEACAACEABAAAAAAAAIAAEA=</HashCode>
+      <FileName>CommentWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APS.DataAccess" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iBgydgQQwH9ADKTBKkiDikAUIlK9/ADDQEApAKEiEBg=</HashCode>
+      <FileName>DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APS.DoublePages" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAACAAAAEAAACAAEACAAAAABAAAAAAAAIAAAA=</HashCode>
+      <FileName>DoublePages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APS.DrawPlane" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAEACEAAIYggACAQoBIAAQAAADAAFIADAgJABAABA=</HashCode>
+      <FileName>DrawPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
